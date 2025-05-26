@@ -17,7 +17,7 @@ The tool also includes a Gradio-powered interface where users can input their da
 
 ## Tech Stack
 
-- **Python** 🐍
+- **Python** 
 - **Pandas, NumPy** – data manipulation
 - **Matplotlib, Seaborn** – visualizations
 - **scikit-learn** – ML model (Random Forest Regressor)
